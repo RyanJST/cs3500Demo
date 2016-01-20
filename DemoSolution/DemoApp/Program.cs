@@ -13,6 +13,14 @@ namespace DemoApp
         }
     }
 
+    class NextClass
+    {
+        static void f ()
+        {
+
+        }
+    }
+
     class Other
     {
         static void g()
